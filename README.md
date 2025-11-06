@@ -4,6 +4,6 @@
 
 ## ข้อมูลผู้สอบ
 
-- ชื่อ:
-- นามสกุล:
-- อีเมล:
+- ชื่อ: panuwat
+- นามสกุล: dechjinda 
+- อีเมล: panuwat.dechjinda1234@gmail.com

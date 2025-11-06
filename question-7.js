@@ -11,3 +11,6 @@ const secondProductList = [
 ];
 
 // เริ่มเขียนโค้ดตรงนี้
+
+const merge = [firstProductList,secondProductList]
+console.log(merge)
